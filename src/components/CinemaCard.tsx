@@ -216,3 +216,4 @@ export const CinemaCard: React.FC<CinemaCardProps> = ({
     </div>
   );
 };
+

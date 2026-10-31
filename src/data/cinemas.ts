@@ -1225,3 +1225,4 @@ export const OTHER_HISTORIC_THEATRES = [
   { name: 'Raj Cinema Hall', area: 'Vijayawada', note: 'Described as affordable, with clear projection and good sound' },
   { name: 'Balaji Iconia A/C 2K Dolby Surround', area: 'Ibrahimpatnam', note: 'Dolby Surround, 2K; located outside the main city center' }
 ];
+

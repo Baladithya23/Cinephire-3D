@@ -211,3 +211,4 @@ export const CinemaFilters: React.FC<CinemaFiltersProps> = ({
     </div>
   );
 };
+

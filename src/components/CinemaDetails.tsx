@@ -362,3 +362,4 @@ export const CinemaDetails: React.FC<CinemaDetailsProps> = ({
     </div>
   );
 };
+

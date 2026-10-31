@@ -81,3 +81,4 @@ export const CinemaAmenities: React.FC<CinemaAmenitiesProps> = ({ amenities, com
     </div>
   );
 };
+

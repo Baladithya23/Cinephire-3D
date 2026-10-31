@@ -145,3 +145,4 @@ export const MoviesView: React.FC<MoviesViewProps> = ({
     </div>
   );
 };
+

@@ -113,3 +113,4 @@ The reference document records surviving historic halls:
 The booking service (`src/services/bookingService.ts`) is architected with a decoupled provider model:
 - `isLiveSyncEnabled: boolean` — Toggles between verified cached schedule data and live external endpoint.
 - Ready for BookMyShow Partner API, District API, or PVR INOX Enterprise Connectors.
+

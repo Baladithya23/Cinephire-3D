@@ -471,3 +471,4 @@ export const CinemaSeat3D: React.FC<CinemaSeat3DProps> = ({
     </div>
   );
 };
+
